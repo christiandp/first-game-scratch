@@ -1,4 +1,4 @@
-# first-game-scratch
+# Goku vs Vegeta
 This is my first game builded in scratch in 2014
 
 #Installation
